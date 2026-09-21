@@ -120,7 +120,8 @@ Through this project, I learned how to:
 
 ## 🌐 Google Colab
 
-Google Colab: ADD_YOUR_COLAB_LINK_HERE
+Google Colab:
+https://colab.research.google.com/drive/1z7QMaOXM6f1nvMlFM37dKi3MKL7uwGiv?usp=sharing
 
 ## 👩‍💻 Author
 
