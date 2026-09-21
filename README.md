@@ -78,14 +78,6 @@ Evaluates prompts based on clarity, specificity, instructions, constraints, outp
 - Generative AI Concepts
 - JSON
 
-## 📂 Project Structure
-
-AI-Productivity-Toolkit-Prompt-Engineering/
-│
-├── AI_Productivity_Toolkit_Prompt_Engineering.ipynb
-│
-└── README.md
-
 ## ▶️ How to Run
 
 1. Open the Google Colab notebook.
